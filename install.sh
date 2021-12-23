@@ -1,4 +1,4 @@
 #!/bin/sh
 
-cp app/installenv /bin/ ;
-chmod +x /bin/installenv ;
+cp app/installdotfiles /bin/ ;
+chmod +x /bin/installdotfiles ;
