@@ -30,7 +30,7 @@ fn main() {
                 .args(Some("gedit"))
                 .args(Some("fragments"))
                 .args(Some("system-config-printer"))
-                .args(Some("gnome-usage"))
+                .args(Some("gnome-system-monitor"))
                 .args(Some("gnome-calendar"))
                 .args(Some("eog"))
                 .args(Some("totem"))
