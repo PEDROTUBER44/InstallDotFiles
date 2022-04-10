@@ -1,8 +1,7 @@
 #!/bin/sh
 
-cargo build --release ;
+cargo build --release &&
 rm -rf app/* ;
-cp target/release/installdotfiles app/ ;
-cp -r rpms/* app/ ;
+cp target/release/installdotfiles app/ &&
 rm -rf target/ ;
-echo "<<<>>>" ;
+echo "InstallDotFiles was successfully compiled" ;
