@@ -1,0 +1,18 @@
+ChangeLog of this version:
+
+- InstallDotFiles rewritten from scratch
+- 
+- 
+- 
+- 
+
+
+Total lines of code:
+
+src/main.rs = 646
+src/utils.rs = 848
+
+TOTAL: 1494
+
+
+Total size of Mild: 3.675.584 bytes

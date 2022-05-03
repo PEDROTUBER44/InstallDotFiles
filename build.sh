@@ -1,7 +1,7 @@
 #!/bin/sh
 
-cargo build --release &&
+cargo build --release ;
 rm -rf app/* ;
-cp target/release/installdotfiles app/ &&
+cp target/release/installdotfiles app/ ;
 rm -rf target/ ;
-echo "InstallDotFiles was successfully compiled" ;
+echo "InstallDotFiles successfully compiled" ;
